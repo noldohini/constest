@@ -1,1 +1,4 @@
-var number = 19;
+var block = $('.content');
+block.click(function(){
+	$('.content').addClass('.active');
+});
