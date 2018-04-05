@@ -1,0 +1,5 @@
+C:\Users\encinoldo\Documents\Visual Studio 2015\Projects\ConsTest\ConsTest\bin\Debug\ConsTest.pdb
+C:\Users\encinoldo\Documents\Visual Studio 2015\Projects\ConsTest\ConsTest\obj\Debug\ConsTest.csprojResolveAssemblyReference.cache
+C:\Users\encinoldo\Documents\Visual Studio 2015\Projects\ConsTest\ConsTest\obj\Debug\ConsTest.pdb
+C:\Users\encinoldo\Documents\Visual Studio 2015\Projects\ConsTest\ConsTest\bin\Debug\ConsTest.exe
+C:\Users\encinoldo\Documents\Visual Studio 2015\Projects\ConsTest\ConsTest\obj\Debug\ConsTest.exe
